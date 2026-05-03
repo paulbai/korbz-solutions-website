@@ -570,13 +570,13 @@ function CuratorSection() {
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[hsl(var(--color-bg-elevated)/0.3)] to-transparent" />
       <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className={`flex flex-col md:flex-row items-center gap-8 md:gap-16 fade-up ${isVisible ? 'visible' : ''}`}>
-          <div className="w-40 h-40 sm:w-56 sm:h-56 lg:w-64 lg:h-64 rounded-full overflow-hidden border-2 border-[hsl(var(--color-coral)/0.3)] flex-shrink-0 relative">
+          <div className="w-40 h-40 sm:w-56 sm:h-56 lg:w-64 lg:h-64 rounded-full overflow-hidden border-2 border-[hsl(var(--color-coral)/0.3)] flex-shrink-0 relative bg-gradient-to-br from-[hsl(var(--color-coral)/0.15)] to-[hsl(var(--color-gold)/0.15)]">
             <img
-              src="https://placehold.co/400x400/1a1210/C9A96E?text=C.A.K"
+              src="/corbola-abigail-king.png"
               alt="Corbola Abigail King"
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover object-top"
             />
-            <div className="absolute inset-0 rounded-full bg-gradient-to-t from-[hsl(var(--color-bg)/0.4)] to-transparent" />
+            <div className="absolute inset-0 rounded-full bg-gradient-to-t from-[hsl(var(--color-bg)/0.3)] to-transparent pointer-events-none" />
           </div>
 
           <div className="text-center md:text-left min-w-0">
