@@ -49,7 +49,7 @@ class Scene3DErrorBoundary extends Component<{ children: ReactNode }, { hasError
   }
 }
 
-const logoUrl = '/lovable-uploads/af3c26fc-d1e3-40a9-b019-35f75c4d0717.png';
+const logoUrl = '/brand/korbz-logo.png';
 const whatsappLink = 'https://wa.me/23279000040';
 
 const trustedCompanies = [

@@ -28,7 +28,7 @@ export default function SplashScreen({ onComplete }: SplashScreenProps) {
     >
       <div className="relative flex flex-col items-center px-6">
         <img
-          src="/lovable-uploads/af3c26fc-d1e3-40a9-b019-35f75c4d0717.png"
+          src="/brand/korbz-logo.png"
           alt="Korbz Solutions"
           className={`h-32 sm:h-48 md:h-64 w-auto max-w-full ${phase === 'enter' || phase === 'hold' ? 'splash-logo-animate' : ''}`}
         />
