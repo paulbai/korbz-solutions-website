@@ -64,6 +64,21 @@ const trustedCompanies = [
 
 const testimonials = [
   {
+    quote: 'Working with Korbz Solution on the Paint n Party project was an absolute pleasure. She was incredibly hands-on throughout the entire process and went far above and beyond her scope of work to ensure the event was successful. From connecting us with reliable vendors to constantly offering support and solutions, she treated the project as though it were her own even in moments where she wasn’t obligated to step in.',
+    name: 'CEO, Paint n Party SL',
+    role: 'Brand Activation',
+  },
+  {
+    quote: 'Korbz Solution brings such positive energy to every aspect of the event planning process, making even the busiest moments feel light, joyful, and manageable. What stands out most is her willingness to always find an alternative solution whenever challenges arise. Her dedication, professionalism, and genuine passion for creating great experiences gave me complete confidence in her abilities. She is truly amazing to work with, and after this experience, I would choose to work with her again anytime, any day. I highly recommend her to anyone looking for an event planner who is supportive, proactive, resourceful, and deeply committed to delivering excellence.',
+    name: 'CEO, Bett Firm',
+    role: 'Corporate Event',
+  },
+  {
+    quote: 'Korbz, you were absolutely the best wedding planner anyone could ever ask for. You helped me throughout the planning process and I was so pleased with how everything turned out. Keep doing what you do and keep advancing your craft. I will definitely recommend you and thank you for all you did at my wedding ❤️',
+    name: 'Abby',
+    role: 'Wedding',
+  },
+  {
     quote: 'Korbz Solutions made our wedding absolutely magical. Every detail was perfect, and we could actually enjoy our special day!',
     name: 'Sarah & Michael',
     role: 'Elegant Wedding',
