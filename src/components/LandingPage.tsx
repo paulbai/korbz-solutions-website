@@ -79,6 +79,11 @@ const testimonials = [
     role: 'Wedding',
   },
   {
+    quote: 'I would like to commend our curator at Korbz Solution for their outstanding work on our first official company launch event. They consistently demonstrate expertise, dedication, and professionalism, always going above and beyond expectations. Their attention to detail ensured the entire process was smooth and successful. We truly appreciate their hard work and look forward to collaborating on future projects.',
+    name: 'Ronifer Noah, Accountant',
+    role: 'World-Link Communications SL Limited',
+  },
+  {
     quote: 'Korbz Solutions made our wedding absolutely magical. Every detail was perfect, and we could actually enjoy our special day!',
     name: 'Sarah & Michael',
     role: 'Elegant Wedding',
